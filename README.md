@@ -1,2 +1,3 @@
 # Curso em Video
-First Repositoryversionado
+First Repository Versioned
+New Repository
